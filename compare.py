@@ -1,0 +1,7 @@
+print("green" == "glow")
+print("green" != "glow")
+print("green" < "glow")
+print("green" <= "glow")
+print("green" > "glow")
+print("green" >= "glow")
+print("ab" <= "abc")
